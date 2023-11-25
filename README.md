@@ -1,8 +1,8 @@
 # Test-Rep-1
 
-Hello Git!
+## Hello Git!
 
-<!--
+
 УДАЛЕНИЕ СВЯЗИ С СКЛОНИРОВАННЫМ РЕПОЗИТОРИЕМ И УСТАНОВКА СВЯЗИ С НОВЫМ РЕПОЗИТОРИЕМ
 
 PS C:\GIT\WorkGit\Test-Rep-1> git remote -v
@@ -23,4 +23,3 @@ origin  https://github.com/MrRasengan/Test-Rep-2.git (push)
 source  https://github.com/MrRasengan/Test-Rep-1.git (fetch)
 source  https://github.com/MrRasengan/Test-Rep-1.git (push)
 PS C:\GIT\WorkGit\Test-Rep-1>
--->
