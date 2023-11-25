@@ -1,7 +1,7 @@
 # Test-Rep-1
 
 Rep 2
-Conflict
+Conflict fgdthye
 
 ## Hello Git!
 
