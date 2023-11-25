@@ -29,3 +29,6 @@ source  https://github.com/MrRasengan/Test-Rep-1.git (push)
 git fetch --all   Скачали изменения с удалённого репозитория
 
 git log origin/main ^main     Показывает последние коммиты в ветке
+
+git merge source/main
+git merge origin/main
