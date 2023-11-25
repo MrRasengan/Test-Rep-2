@@ -2,6 +2,7 @@
 
 Rep 2
 Conflict fgdthye
+Conflict figdfg
 
 ## Hello Git!
 
